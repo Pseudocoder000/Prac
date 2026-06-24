@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pseudocoder000/Prac/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pseudocoder000/Prac/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pseudocoder000/Prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
