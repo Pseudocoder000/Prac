@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Pseudocoder000/Prac/tree/master/1189-maximum-number-of-balloons) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pseudocoder000/Prac/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pseudocoder000/Prac/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pseudocoder000/Prac/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pseudocoder000/Prac/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
