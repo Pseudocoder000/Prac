@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Pseudocoder000/Prac/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pseudocoder000/Prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Pseudocoder000/Prac/tree/master/2540-minimum-common-value) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pseudocoder000/Prac/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pseudocoder000/Prac/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Pseudocoder000/Prac/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pseudocoder000/Prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pseudocoder000/Prac/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Pseudocoder000/Prac/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -90,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pseudocoder000/Prac/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
