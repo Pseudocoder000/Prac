@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3620-network-recovery-pathways](https://github.com/Pseudocoder000/Prac/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pseudocoder000/Prac/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/Pseudocoder000/Prac/tree/master/0896-monotonic-array) |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
+| [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pseudocoder000/Prac/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2540-minimum-common-value](https://github.com/Pseudocoder000/Prac/tree/master/2540-minimum-common-value) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Pseudocoder000/Prac/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
+| [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
