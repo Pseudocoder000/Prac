@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Pseudocoder000/Prac/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pseudocoder000/Prac/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pseudocoder000/Prac/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pseudocoder000/Prac/tree/master/0112-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pseudocoder000/Prac/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Simulation
 |  |
@@ -182,8 +184,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pseudocoder000/Prac/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pseudocoder000/Prac/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pseudocoder000/Prac/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pseudocoder000/Prac/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
