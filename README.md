@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pseudocoder000/Prac/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Pseudocoder000/Prac/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Pseudocoder000/Prac/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pseudocoder000/Prac/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Pseudocoder000/Prac/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Pseudocoder000/Prac/tree/master/1288-remove-covered-intervals) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Sliding Window
 |  |
