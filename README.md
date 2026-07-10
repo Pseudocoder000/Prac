@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pseudocoder000/Prac/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Pseudocoder000/Prac/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Pseudocoder000/Prac/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pseudocoder000/Prac/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0905-sort-array-by-parity](https://github.com/Pseudocoder000/Prac/tree/master/0905-sort-array-by-parity) |
 | [2540-minimum-common-value](https://github.com/Pseudocoder000/Prac/tree/master/2540-minimum-common-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pseudocoder000/Prac/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pseudocoder000/Prac/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pseudocoder000/Prac/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Pseudocoder000/Prac/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Pseudocoder000/Prac/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Pseudocoder000/Prac/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pseudocoder000/Prac/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pseudocoder000/Prac/tree/master/3620-network-recovery-pathways) |
 ## Enumeration
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Pseudocoder000/Prac/tree/master/1288-remove-covered-intervals) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -159,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Pseudocoder000/Prac/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Pseudocoder000/Prac/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Pseudocoder000/Prac/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -177,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Pseudocoder000/Prac/tree/master/0860-lemonade-change) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Pseudocoder000/Prac/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pseudocoder000/Prac/tree/master/0112-path-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Pseudocoder000/Prac/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
