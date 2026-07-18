@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Pseudocoder000/Prac/tree/master/0908-smallest-range-i) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pseudocoder000/Prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pseudocoder000/Prac/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pseudocoder000/Prac/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pseudocoder000/Prac/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pseudocoder000/Prac/tree/master/1331-rank-transform-of-an-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Pseudocoder000/Prac/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pseudocoder000/Prac/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pseudocoder000/Prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/Pseudocoder000/Prac/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Pseudocoder000/Prac/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Pseudocoder000/Prac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Pseudocoder000/Prac/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pseudocoder000/Prac/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pseudocoder000/Prac/tree/master/3658-gcd-of-odd-and-even-sums) |
