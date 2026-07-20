@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Pseudocoder000/Prac/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/Pseudocoder000/Prac/tree/master/0908-smallest-range-i) |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Pseudocoder000/Prac/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Pseudocoder000/Prac/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Pseudocoder000/Prac/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/Pseudocoder000/Prac/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
+| [1260-shift-2d-grid](https://github.com/Pseudocoder000/Prac/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Pseudocoder000/Prac/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Pseudocoder000/Prac/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Pseudocoder000/Prac/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Pseudocoder000/Prac/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
