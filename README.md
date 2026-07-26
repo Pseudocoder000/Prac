@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pseudocoder000/Prac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Pseudocoder000/Prac/tree/master/0908-smallest-range-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pseudocoder000/Prac/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pseudocoder000/Prac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Pseudocoder000/Prac/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Pseudocoder000/Prac/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pseudocoder000/Prac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Pseudocoder000/Prac/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Pseudocoder000/Prac/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Pseudocoder000/Prac/tree/master/1288-remove-covered-intervals) |
