@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Pseudocoder000/Prac/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Pseudocoder000/Prac/tree/master/1301-number-of-paths-with-max-score) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Pseudocoder000/Prac/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Pseudocoder000/Prac/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pseudocoder000/Prac/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Pseudocoder000/Prac/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pseudocoder000/Prac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Pseudocoder000/Prac/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Pseudocoder000/Prac/tree/master/0908-smallest-range-i) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Pseudocoder000/Prac/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pseudocoder000/Prac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Pseudocoder000/Prac/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Pseudocoder000/Prac/tree/master/0867-transpose-matrix) |
@@ -288,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pseudocoder000/Prac/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pseudocoder000/Prac/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Pseudocoder000/Prac/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
